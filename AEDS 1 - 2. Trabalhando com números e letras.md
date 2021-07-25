@@ -1,0 +1,40 @@
+- 2. Trabalhando com números e letras
+	- Variáveis: o que são e para que servem
+		- A máquina só realiza dois tipos de operação: operações aritméticas e operações lógicas
+			- Operações aritméticas: + - * / 
+			- Operações lógicas: AND, OR e NOT
+		- E no fundo, tudo são bits 1 ou 0
+		- Para conseguir fazer essas operações, ele precisa de espaço na memória 
+		- Por exemplo, para fazer a conta 2+3 e te mostrar um resultado, ele precisa:
+			- De um lugar para armazenar o 2, outro lugar para armazenar o 3 e, ainda, um outro lugar para armazenar o resultado
+			- Mas os processadores têm algum espaço de memória para armazenar o que ele precisa para fazer as operações básica
+			- Como soma é uma operação básica, você só precisará criar um espaço de memória para guardar o resultado.
+		- Você não precisa decorar quando precisa ou não criar espaço de memória. Com a prática, isso virá naturalmente
+		- Variáveis então, são um espaço na memória primária utilizadas para armazenar dados.
+	- Variáveis numéricas
+		- Existem variáveis para números e para letras e palavras. 
+		- Para letras, são dois tipos básicos: para números inteiros e para números reais
+		- Tipos clássicos de números: int e variações, float e variações, double e variações
+		- Curiosidade: quanto espaço ocupam na memória
+		- Curiosidade: linguagens fortemente tipadas e fracamente tipadas
+	- Variáveis de texto
+		- Falar dos tipos: char e string
+	- Fazendo contas com letras
+		- Sim, você pode fazer contas com letras. Isso mesmo, você pode somar a+b e obter como resultado o caractere '{'
+		- Ou ainda, fazer a conta 'a'+1 e obter 'b'
+		- Mas porque isso funciona?
+	- Indo além: variáveis
+		- Tipo lógico bool
+		- Tipo complex
+		- Outros tipos: link para o tutorials point
+	- Prática de programação nº 02 - Uma calculadora pouco prática
+		- Crie um programa que imprima o resultado das quatro operações básicas, dados dois números inteiros
+		- Como fazer:
+		- Crie um nov arquivo no Codeblocks
+		- Adicione a biblioteca <stdio.h>
+		- Crie a função main
+		- Na função main, crie duas variáveis do tipo 'int', uma para cada valor
+		- Atribua valores inteiros para cada variáveil
+		- Depois, crie variáveis para armazenar o resultado da cada operação. De quantas variáveis você vai precisar?
+		- O resultado da operação de divisão sempre dará inteiro? Qual tipo de variável você vai precisar?
+
