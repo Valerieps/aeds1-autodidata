@@ -65,3 +65,22 @@ Curso autodidata que cobre exatamente o mesmo conteúdo do primeiro semestre de 
 		- Podemos manipular a memória
 		- Aprendemos melhor sobre como uma linguagem de computador funciona
 		- Para o que usam C no mundo real
+
+
+# Planejamento
+
+- Objetivo: Passar o conteúdo de AEDS 1 de forma didática, com explicações paulatinas e honestas.
+- Público alvo
+- Métodos e técnicas
+	- A parte teórica deve estar entremeada na parte prática
+	- Explicações com termos leigos no começo
+	- Links para outros recursos quando for o caso
+	- Para além do conteúdo, trabalhar coisas como 
+		- melhores recursos para buscar respostas, 
+		- como abordar o problema a ser resolvido, 
+		- o que significa um código bom
+		- Como fazer um teste de mesa
+	- Para cada bloco de conteúdo, ir desde o óbvio, iniciante, até conteúdos mais complexos
+	- Colocar exercícios para serem resolvidos
+		- Se possível, aqueles corretores automáticos
+	- Sempre explicar porque aprender
