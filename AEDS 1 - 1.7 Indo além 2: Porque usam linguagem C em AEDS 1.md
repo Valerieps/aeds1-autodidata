@@ -1,0 +1,6 @@
+- 1.7 Indo além - Porque usam linguagem C em AEDS 1
+	- Diferença entre linguagem de alto nível x linguagem de baixo nível 
+	- Das linguagens de alto nível, é uma das mais baixas. É considerada por muitos, uma linguagem de "médio" nível
+	- Podemos manipular a memória
+	- Aprendemos melhor sobre como uma linguagem de computador funciona
+	- Para o que usam C no mundo real
